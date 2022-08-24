@@ -5,6 +5,6 @@ import "fmt"
 var a = "Hello World"
 
 func main() {
-	fmt.printf("This is String: %s", a )
-	fmt.println("This is Go file")
+	fmt.Printf("This is String: %s", a)
+	fmt.Println("This is Go file")
 }
