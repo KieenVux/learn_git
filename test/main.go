@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
-	var a = "Hello World"
+func main() {
+	a := "Hello World"
 	fmt.Printf("String: %s", a)
 }
